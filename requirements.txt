@@ -1,0 +1,12 @@
+numpy==1.24.1
+oct2py==5.6.0
+octave_kernel==0.35.1
+pandas==1.5.3
+progressbar==2.5
+qiskit==0.31.0
+qiskit-aer==0.9.1
+qiskit-aqua==0.9.5
+qiskit-ibmq-provider==0.17.0
+qiskit-ignis==0.6.0
+qiskit-terra==0.18.3
+scikit-learn==1.2.0
